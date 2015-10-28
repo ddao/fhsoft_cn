@@ -35,7 +35,7 @@ textarea { overflow: auto; }
 
 .header { padding: 32px 32px 16px;  }
 #logo { width: 149px; float: left; }
-#logo a { height: 48px; display: block; background: url(images/logo.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; }
+#logo a { height: 48px; display: block; background: url(images/logo.png) no-repeat 0 0; background-size: contain; font-size: 0; line-height: 0; text-indent: -4000px; }
 
 #navigation { height: 35px; line-height: 35px; float: right; position: relative; z-index: 20; }
 #navigation ul { list-style: none; list-style-position: outside; font-size: 13px; text-shadow: rgba(255,255,255,0.5) 0px 1px 1px; }
